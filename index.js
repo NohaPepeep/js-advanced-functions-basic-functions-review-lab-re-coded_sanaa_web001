@@ -28,7 +28,7 @@ function actionApplyer(a,arr= [
   return a;}
   else{
     for(let i=0;i<=arr.length;i++){
-      arr[i](a);
+      arr[i];
     }
   }
 }
