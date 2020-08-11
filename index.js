@@ -28,7 +28,9 @@ function actionApplyer(a,arr= [
   return a;}
   else{
     a*2;
-    a
+    a+1000;
+    a%7;
+    return a;
     }
   }
 }
